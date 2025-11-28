@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(37, 37, 37);
+}
+.start{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:415px;
+    height:160px;
+    background-image: url('Helltrip/media/start-before.png');
+}
+.start:hover{
+
+}
