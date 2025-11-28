@@ -5,10 +5,12 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    width:415px;
+    width:400px;
     height:160px;
-    background-image: url('Helltrip/media/start-before.png');
+    background-image: url('media/start-before.png');
+    transition: 0.7s all ease;
 }
 .start:hover{
-
+    background-image: url('media/start-after.png');
+    transition: 0.7s all ease;
 }
