@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(to right , #66e9ee, #9fe3df);
+    
+    
+}
+.canvas{
+    display:block;
+    margin:0 auto;
+    
+}
+img {
+  opacity: 0.5;
+}
